@@ -399,6 +399,7 @@ header a{
 
 footer{
     margin-top:100px;
+    background-color: chartreuse;
 }
 
 footer hr{
@@ -420,7 +421,7 @@ footer hr{
     display:flex;
     justify-content: space-between;
     align-items: center;
-    color:rgba(150,151,150,255)
+    color: #000;
 }
 
 .logosfoo{
